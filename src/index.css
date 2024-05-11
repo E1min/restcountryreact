@@ -1,0 +1,21 @@
+.main{
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.input input{
+outline: none;
+padding: 3px;
+margin: 3px;
+}
+
+.card{
+  border: 1px solid rgba(0, 0, 0, 0.466);
+  border-radius: 10px;
+  overflow: hidden;
+  text-align: center;
+  box-shadow: 4px 2.5px  10px rgb(8, 8, 8);
+}
